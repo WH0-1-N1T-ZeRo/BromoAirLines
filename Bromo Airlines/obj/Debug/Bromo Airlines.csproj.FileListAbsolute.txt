@@ -1,0 +1,40 @@
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Bromo Airlines.exe.config
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Bromo Airlines.exe
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Bromo Airlines.pdb
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csprojAssemblyReference.cache
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Properties.Resources.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.GenerateResource.cache
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.CoreCompileInputs.cache
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.exe
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.pdb
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Daftar_Akun.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Login.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Main_Form.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Master_Bandara.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Master_Maskapai.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Master_Kode_Promo.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Master_Jadwal_Penerbangan.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Ubah_Status_Penerbangan.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Bromo_Airlines_Customer.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Cari_Penerbangan.resources
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Buffers.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Memory.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Numerics.Vectors.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Text.Encodings.Web.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.ValueTuple.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Buffers.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Memory.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Numerics.Vectors.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Text.Encodings.Web.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\System.ValueTuple.xml
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.CopyComplete
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Newtonsoft.Json.dll
+D:\App\Bromo Airlines\Bromo Airlines\bin\Debug\Newtonsoft.Json.xml
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Detail_Penumpang.resources
+D:\App\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Tiket_saya.resources
